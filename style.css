@@ -1,0 +1,120 @@
+
+body{
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather', serif;
+color: #40514E;
+
+}
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  margin: 50,auto,0,auto;
+  font-size: 100px;
+}
+.contact-me{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+h3{
+    color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.skill-row{
+  width: 50%;
+  margin:60px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+ .my-profile{
+  width: 25%;
+}
+.top-container{
+  background-color: #D4ECDD;
+  position: relative;
+  padding: 100px;
+}
+.book-img{
+  float: right;
+  margin-left: 10px;
+
+}
+.movie-img{
+  float: left;
+  margin-right: 10px;
+  width: 23%;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-container{
+  background-color: #B8DFD8;
+  height: 200px;
+  padding: 60px 50px;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+a{
+  color: #012443;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+
+
+}
+a:hover{
+  color: #B5FFD9;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+.skill-image{
+  width: 20%;
+  padding-bottom: -20px;
+
+}
